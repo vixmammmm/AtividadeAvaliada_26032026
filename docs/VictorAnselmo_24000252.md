@@ -93,6 +93,9 @@ UC09: Autenticar Usuário (Todos os Atores) - << include >> em UC01, UC06, UC08
 
 UC10: Emitir Comprovante (Sistema) - << include >> em UC01
 
+<img width="8192" height="3764" alt="image" src="https://github.com/user-attachments/assets/ffaf9ce6-e1ea-41ce-9773-894aed039fcf" />
+
+
 6. Documentação de Caso de Uso
 
    
